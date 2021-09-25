@@ -6,11 +6,11 @@ Maria the chief data scientist for a city school district is responsible for ana
 # Results
 
 
-![alt text](results.png)
+![alt text](https://github.com/Herbert-0820/School_District_Analysis/blob/main/Screen%20Shot%202021-09-24%20at%209.00.40%20PM.png)
 
 
 
-• 369,711 has been casted in this congressional election
+• Total
 • Jefferson gets 38,855, accounting for 10.5% in total
 • Denver gets 306,055, accounting for 82.8% in total
 •	Arapahoe gets 24,801, accounting for 6.7% in total
