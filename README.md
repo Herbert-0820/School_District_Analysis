@@ -10,17 +10,19 @@ Maria the chief data scientist for a city school district is responsible for ana
 
 
 
-• Total
-• Jefferson gets 38,855, accounting for 10.5% in total
-• Denver gets 306,055, accounting for 82.8% in total
-•	Arapahoe gets 24,801, accounting for 6.7% in total
-•	Denver has the largest number of votes
-•	Charles Casper Stockham gets 85,213, accounting for 23% in total
-•	Diana DeGette gets 272,892, accounting for 73.8% in total
-•	Raymon Anthony Doane gets 11,606, accounting for 3.1% in total 
+• Total budget and total students will decide the per student budget and school size
+• per student budget will tend to have more resources
+• average math score will represent the math level of the school
+•	average reading score will represent the reading level of the school
+•	percentage of passing math will change if the original data change
+•	percentage of passing reading will change if the original data change
+•	percentage of overall passing will change if the original data change
 
 
 # Summary
 
-• It can be used for capturing more counties, which makes no modifications for the script
-• It can be used for another year if more candidates get involved
+• the data missing will not influce the math score
+• the data missing will not influce the reading score
+• the data missing will not influce the percentage passing math
+• the data missing will not influce the percentage reading math
+
